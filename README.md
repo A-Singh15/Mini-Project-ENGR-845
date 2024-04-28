@@ -1,4 +1,5 @@
 # ENGR 845 Mini Project Assignment: Human Activity Classification Using Smartphone Data - Aaron Singh
+(![Activities Model](https://github.com/A-Singh15/Mini-Project-ENGR-845/blob/main/img/raw%202.png)
 
 ## Introduction
 The purpose of this assignment is to gain hands-on experience with the concepts taught in the ENGR 845 class, including human data processing, feature engineering, pattern classification, and parameter tuning.
