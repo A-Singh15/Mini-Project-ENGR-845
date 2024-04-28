@@ -12,8 +12,9 @@ The purpose of this assignment is to gain hands-on experience with the concepts 
 - Professor Yuriah
 
 ## Project Organization
-- The `Img` folder contains all the screenshots for the required Mini Project.
-
+- The `img` folder contains all the screenshots for the required Mini Project.
+- The `data` folder contains all the data for the required Mini Project.
+- The file `ENGR_845_MiniProject_Guideline.mlx` has all the required scripts and code for the Mini Project.
 ## Data Collection
 In this assignment, 3-axis acceleration data from an *Android 13 Samsung A51 5G* for at least three different classes of human activities are collected from yourself. The motions are walking, running, dancing, and standing.
 
