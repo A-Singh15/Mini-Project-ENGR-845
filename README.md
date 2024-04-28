@@ -67,4 +67,4 @@ ylabel('Acceleration');
 ```
 ![Raw Data](https://github.com/A-Singh15/Mini-Project-ENGR-845/raw/main/img/raw_data.png)
 ## Conclusion
-This readme outlines the steps followed for the ENGR 845 Mini Project Assignment, including data collection, dataset preparation, raw data visualization, feature extraction, and conclusion. Further analysis and experimentation with different parameter combinations and classification algorithms will be conducted as part of the project.
+This outlines the steps followed for the ENGR 845 Mini Project Assignment, including data collection, dataset preparation, raw data visualization, feature extraction, and conclusion. Further analysis and experimentation with different parameter combinations and classification algorithms will be conducted as part of the project.
