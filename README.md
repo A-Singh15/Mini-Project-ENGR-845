@@ -63,5 +63,6 @@ title('Z Acceleration');
 xlabel('Time');
 ylabel('Acceleration');
 ```
+![Raw Data](img\raw_data.png)
 ## Conclusion
 This readme outlines the steps followed for the ENGR 845 Mini Project Assignment, including data collection, dataset preparation, raw data visualization, feature extraction, and conclusion. Further analysis and experimentation with different parameter combinations and classification algorithms will be conducted as part of the project.
