@@ -30,3 +30,38 @@ Below is MATLAB code to plot some example trials for the activities:
 
 ```matlab
 % MATLAB code for raw data visualization
+% Based on the Example, code in this section to plot the raw data that was collected
+% Load the acceleration data
+data = readmatrix('Data\accel_data.csv');
+
+% Assuming the data contains x, y, and z acceleration in three columns
+x_accel = data(:, 1);
+y_accel = data(:, 2);
+z_accel = data(:, 3);
+
+% Plot the x, y, and z acceleration data
+figure;
+
+% Plot x acceleration
+subplot(3, 1, 1);
+plot(x_accel);
+title('X Acceleration');
+xlabel('Time');
+ylabel('Acceleration');
+
+% Plot y acceleration
+subplot(3, 1, 2);
+plot(y_accel);
+title('Y Acceleration');
+xlabel('Time');
+ylabel('Acceleration');
+
+% Plot z acceleration
+subplot(3, 1, 3);
+plot(z_accel);
+title('Z Acceleration');
+xlabel('Time');
+ylabel('Acceleration');
+```
+## Conclusion
+This readme outlines the steps followed for the ENGR 845 Mini Project Assignment, including data collection, dataset preparation, raw data visualization, feature extraction, and conclusion. Further analysis and experimentation with different parameter combinations and classification algorithms will be conducted as part of the project.
